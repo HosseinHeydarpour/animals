@@ -1,2 +1,4 @@
 Barfi
 Blue
+Loki
+Thor
